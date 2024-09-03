@@ -1,16 +1,7 @@
-# app3
+# Stacy
 
-A new Flutter project.
+A movie database App which displays current Trending Movies and Popular TV shows and Series from TMDB
+Database with it’s Poster, Name and Description.It also features a login page which identifies users uniquely
+according to their e-mail ids.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application uses Flutter as the main framework and is written of native Dart and uses Firebase for authentication purpose.
