@@ -81,7 +81,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
                              TextButton(onPressed: (){
                                Fluttertoast.showToast(
-                                   msg: "Created by Chhandam Pal",
+                                   msg: "Created by Dheeraj",
                                    toastLength: Toast.LENGTH_LONG,
                                    gravity: ToastGravity.CENTER,
                                    timeInSecForIosWeb: 3,
